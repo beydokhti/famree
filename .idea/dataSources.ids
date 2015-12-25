@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="famree dev" uuid="73a244ee-0cb9-4c98-8e81-9c7227857610">
+    <database-info product="MySQL" version="5.6.20" jdbc-version="3.0" driver-name="MySQL-AB JDBC Driver" driver-version="mysql-connector-java-5.0.5 ( $Date: 2007-03-01 00:01:06 +0100 (Thu, 01 Mar 2007) $, $Revision: 6329 $ )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower"/>
+    <schema name="" catalog="famree"/>
+    <schema name="" catalog="information_schema"/>
+    <schema name="" catalog="test"/>
+    <table name="ft_auth_user" schema="" catalog="famree" type="TABLE">
+      <column name="id" sqlType="bigint" precision="19" scale="0" nullable="false" jdbcType="-5"/>
+      <column name="enabled" sqlType="bit" precision="1" scale="0" nullable="false" jdbcType="-7"/>
+      <column name="passwd" sqlType="varchar" precision="255" scale="0" nullable="false" jdbcType="12"/>
+      <column name="user_real_name" sqlType="varchar" precision="255" scale="0" nullable="false" jdbcType="12"/>
+      <column name="username" sqlType="varchar" precision="255" scale="0" nullable="false" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="id"/>
+      <exported-key name="FKFE034624287E0CAC" table="ft_auth_user_role" schema="" catalog="famree" columns="authorities_id"/>
+      <exported-key name="FKFA5BB224C0EDD82B" table="ft_family_member" schema="" catalog="famree" columns="auth_user_id"/>
+    </table>
+    <table name="ft_auth_user_role" schema="" catalog="famree" type="TABLE">
+      <column name="people_id" sqlType="bigint" precision="19" scale="0" nullable="false" jdbcType="-5"/>
+      <column name="authorities_id" sqlType="bigint" precision="19" scale="0" nullable="false" jdbcType="-5"/>
+      <primary-key name="PRIMARY" columns="authorities_id,people_id"/>
+      <foreign-key name="FKFE034624287E0CAC" columns="authorities_id" ref-table="ft_auth_user" ref-schema="" ref-catalog="famree" ref-columns="id" update-rule="3" delete-rule="3" deferrability="2"/>
+      <foreign-key name="FKFE0346248F01F561" columns="people_id" ref-table="ft_role" ref-schema="" ref-catalog="famree" ref-columns="id" update-rule="3" delete-rule="3" deferrability="2"/>
+    </table>
+    <table name="ft_family_member" schema="" catalog="famree" type="TABLE">
+      <column name="id" sqlType="int" precision="10" scale="0" nullable="false" jdbcType="4"/>
+      <column name="avatar" sqlType="blob" precision="65535" scale="0" nullable="true" jdbcType="-4"/>
+      <column name="avatar_mime" sqlType="varchar" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="birth_date" sqlType="date" precision="0" scale="0" nullable="true" jdbcType="91"/>
+      <column name="death_date" sqlType="date" precision="0" scale="0" nullable="true" jdbcType="91"/>
+      <column name="gender" sqlType="varchar" precision="255" scale="0" nullable="false" jdbcType="12"/>
+      <column name="name" sqlType="varchar" precision="255" scale="0" nullable="false" jdbcType="12"/>
+      <column name="nickname" sqlType="varchar" precision="255" scale="0" nullable="false" jdbcType="12"/>
+      <column name="parent_id" sqlType="int" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <column name="root" sqlType="bit" precision="1" scale="0" nullable="false" jdbcType="-7"/>
+      <column name="auth_user_id" sqlType="bigint" precision="19" scale="0" nullable="true" jdbcType="-5"/>
+      <primary-key name="PRIMARY" columns="id"/>
+      <foreign-key name="FKFA5BB224C0EDD82B" columns="auth_user_id" ref-table="ft_auth_user" ref-schema="" ref-catalog="famree" ref-columns="id" update-rule="3" delete-rule="3" deferrability="2"/>
+    </table>
+    <table name="ft_item" schema="" catalog="famree" type="TABLE">
+      <column name="id" sqlType="bigint" precision="19" scale="0" nullable="false" jdbcType="-5"/>
+      <column name="active" sqlType="bit" precision="1" scale="0" nullable="false" jdbcType="-7"/>
+      <column name="details" sqlType="varchar" precision="255" scale="0" nullable="false" jdbcType="12"/>
+      <column name="end_date" sqlType="datetime" precision="0" scale="0" nullable="true" jdbcType="93"/>
+      <column name="position" sqlType="int" precision="10" scale="0" nullable="false" jdbcType="4"/>
+      <column name="start_date" sqlType="datetime" precision="0" scale="0" nullable="true" jdbcType="93"/>
+      <column name="subject" sqlType="varchar" precision="255" scale="0" nullable="false" jdbcType="12"/>
+      <column name="type" sqlType="int" precision="10" scale="0" nullable="false" jdbcType="4"/>
+      <primary-key name="PRIMARY" columns="id"/>
+    </table>
+    <table name="ft_requestmap" schema="" catalog="famree" type="TABLE">
+      <column name="id" sqlType="bigint" precision="19" scale="0" nullable="false" jdbcType="-5"/>
+      <column name="config_attribute" sqlType="varchar" precision="255" scale="0" nullable="false" jdbcType="12"/>
+      <column name="url" sqlType="varchar" precision="255" scale="0" nullable="false" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="id"/>
+    </table>
+    <table name="ft_role" schema="" catalog="famree" type="TABLE">
+      <column name="id" sqlType="bigint" precision="19" scale="0" nullable="false" jdbcType="-5"/>
+      <column name="authority" sqlType="varchar" precision="255" scale="0" nullable="false" jdbcType="12"/>
+      <column name="description" sqlType="varchar" precision="255" scale="0" nullable="false" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="id"/>
+      <exported-key name="FKFE0346248F01F561" table="ft_auth_user_role" schema="" catalog="famree" columns="people_id"/>
+    </table>
+    <table name="ft_template" schema="" catalog="famree" type="TABLE">
+      <column name="id" sqlType="bigint" precision="19" scale="0" nullable="false" jdbcType="-5"/>
+      <column name="template_description" sqlType="varchar" precision="255" scale="0" nullable="false" jdbcType="12"/>
+      <column name="template_key" sqlType="varchar" precision="255" scale="0" nullable="false" jdbcType="12"/>
+      <column name="template_value" sqlType="varchar" precision="255" scale="0" nullable="false" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="id"/>
+    </table>
+    <table name="ft_wedding" schema="" catalog="famree" type="TABLE">
+      <column name="id" sqlType="bigint" precision="19" scale="0" nullable="false" jdbcType="-5"/>
+      <column name="active" sqlType="bit" precision="1" scale="0" nullable="false" jdbcType="-7"/>
+      <column name="main_member_id" sqlType="bigint" precision="19" scale="0" nullable="true" jdbcType="-5"/>
+      <column name="spouse_member_id" sqlType="bigint" precision="19" scale="0" nullable="true" jdbcType="-5"/>
+      <column name="wedding_date" sqlType="datetime" precision="0" scale="0" nullable="true" jdbcType="93"/>
+      <primary-key name="PRIMARY" columns="id"/>
+    </table>
+    <table name="employee" schema="" catalog="test" type="TABLE">
+      <column name="id" sqlType="int" precision="10" scale="0" nullable="false" jdbcType="4"/>
+      <column name="first_name" sqlType="varchar" precision="20" scale="0" nullable="true" jdbcType="12"/>
+      <column name="last_name" sqlType="varchar" precision="20" scale="0" nullable="true" jdbcType="12"/>
+      <column name="salary" sqlType="int" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <primary-key name="PRIMARY" columns="id"/>
+    </table>
+  </data-source>
+</component>

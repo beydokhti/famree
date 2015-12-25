@@ -1,0 +1,476 @@
+18 Jun 2014 00:27:21,317|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:27:23,112|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:27:23,341|DEBUG|grails.app.service.TemplateService|Initializing template cache
+18 Jun 2014 00:27:24,793|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:27:24,877|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:27:42,338|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+18 Jun 2014 00:27:42,446|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Jun 2014 00:27:47,136|DEBUG|grails.app.controller.HomeController|IN /home/faq ["action":"faq", "controller":"home"]
+18 Jun 2014 00:27:47,149|DEBUG|grails.app.controller.HomeController|OUT /home/faq
+18 Jun 2014 00:27:49,949|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:27:49,963|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:27:50,245|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:27:50,578|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:29:11,221|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:29:11,233|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:29:12,571|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:29:12,586|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:29:20,636|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:29:20,648|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:29:21,936|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:29:21,951|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:32:11,008|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:32:11,040|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:32:12,632|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:32:12,678|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:35:20,208|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:35:20,220|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:35:21,699|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:35:21,716|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:36:27,813|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:36:27,824|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:36:29,167|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:36:29,180|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:36:59,796|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:36:59,811|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:37:01,163|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:37:01,177|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:37:22,539|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:37:22,551|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:37:23,904|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:37:23,919|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:37:54,383|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:37:54,394|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:37:55,737|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:37:55,751|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:38:14,665|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:38:14,678|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:38:16,137|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:38:16,152|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:41:22,209|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:41:22,232|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:41:23,815|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:41:23,863|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:43:40,776|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:43:40,787|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:43:42,146|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:43:42,159|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:43:42,897|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:43:42,908|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:43:44,175|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:43:44,188|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:43:45,843|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:43:45,855|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:43:47,205|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:43:47,219|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:43:48,482|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:43:48,494|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:43:49,834|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:43:49,847|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:45:11,322|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:45:11,333|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:45:12,741|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:45:12,755|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:45:42,863|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:45:42,875|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:45:44,196|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:45:44,209|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:45:44,300|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:45:44,313|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:45:45,636|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:45:45,651|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:46:05,089|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:46:05,101|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:46:06,456|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:46:06,471|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:46:06,506|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:46:06,517|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:46:07,858|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:46:07,870|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:47:18,225|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:47:18,237|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:47:19,578|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:47:19,589|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:47:32,491|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:47:32,504|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:47:34,137|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:47:34,150|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:48:03,084|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:48:03,095|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:48:04,521|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:48:04,532|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:48:05,215|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:48:05,226|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:48:06,591|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:48:06,603|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:48:19,413|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:48:19,424|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:48:20,814|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:48:20,825|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:48:32,432|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:48:32,448|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:48:33,815|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:48:33,830|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:48:34,953|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:48:34,966|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:48:36,288|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:48:36,299|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:49:00,530|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:49:00,552|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:49:02,182|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:49:02,193|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:49:03,970|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:49:03,980|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:49:05,385|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:49:05,397|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:49:12,361|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:49:12,380|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:49:13,985|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:49:14,004|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:49:17,875|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:49:17,888|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:51:15,638|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:51:15,649|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:51:17,100|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:51:17,110|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:52:54,863|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:52:54,876|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:52:56,451|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:52:56,467|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:53:07,848|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:53:07,860|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:53:09,194|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:53:09,204|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:57:15,626|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:57:15,648|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:57:15,687|ERROR|StackTrace|Sanitizing stacktrace:
+org.codehaus.groovy.grails.web.taglib.exceptions.GrailsTagException: Grails tags were not closed! [[<g:link>]] in GSP file [D:\Project\famree\grails-app\views\layouts\main.gsp]
+	at org.codehaus.groovy.grails.web.pages.Parse.page(Parse.java:374)
+	at org.codehaus.groovy.grails.web.pages.Parse.parse(Parse.java:157)
+	at org.codehaus.groovy.grails.web.pages.GroovyPagesTemplateEngine.buildPageMetaInfo(GroovyPagesTemplateEngine.java:403)
+	at org.codehaus.groovy.grails.web.pages.GroovyPagesTemplateEngine.createTemplate(GroovyPagesTemplateEngine.java:296)
+	at org.codehaus.groovy.grails.web.pages.GroovyPagesTemplateEngine.createTemplateWithResource(GroovyPagesTemplateEngine.java:280)
+	at org.codehaus.groovy.grails.web.pages.GroovyPagesTemplateEngine.createTemplate(GroovyPagesTemplateEngine.java:159)
+	at org.codehaus.groovy.grails.web.pages.GroovyPagesServlet.renderPageWithEngine(GroovyPagesServlet.java:148)
+	at org.codehaus.groovy.grails.web.pages.GroovyPagesServlet.doPage(GroovyPagesServlet.java:131)
+	at org.codehaus.groovy.grails.web.pages.GroovyPagesServlet.doGet(GroovyPagesServlet.java:95)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:367)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:712)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.servlet.Dispatcher.forward(Dispatcher.java:268)
+	at org.mortbay.jetty.servlet.Dispatcher.forward(Dispatcher.java:126)
+	at org.codehaus.groovy.grails.web.sitemesh.GrailsPageFilter.applyDecorator(GrailsPageFilter.java:185)
+	at org.codehaus.groovy.grails.web.sitemesh.GrailsPageFilter.doFilter(GrailsPageFilter.java:93)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1089)
+	at org.codehaus.groovy.grails.web.servlet.mvc.GrailsWebRequestFilter.doFilterInternal(GrailsWebRequestFilter.java:65)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:76)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1089)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:76)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:236)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:167)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1089)
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:265)
+	at org.acegisecurity.intercept.web.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:107)
+	at org.acegisecurity.intercept.web.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:72)
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:275)
+	at org.acegisecurity.ui.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:166)
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:275)
+	at org.acegisecurity.providers.anonymous.AnonymousProcessingFilter.doFilter(AnonymousProcessingFilter.java:125)
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:275)
+	at org.acegisecurity.ui.rememberme.RememberMeProcessingFilter.doFilter(RememberMeProcessingFilter.java:135)
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:275)
+	at org.acegisecurity.wrapper.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:81)
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:275)
+	at org.acegisecurity.ui.AbstractProcessingFilter.doFilter(AbstractProcessingFilter.java:271)
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:275)
+	at org.acegisecurity.ui.logout.LogoutFilter.doFilter(LogoutFilter.java:110)
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:275)
+	at org.acegisecurity.context.HttpSessionContextIntegrationFilter.doFilter(HttpSessionContextIntegrationFilter.java:249)
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:275)
+	at org.acegisecurity.util.FilterChainProxy.doFilter(FilterChainProxy.java:149)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:236)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:167)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1089)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:365)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:712)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:139)
+	at org.mortbay.jetty.Server.handle(Server.java:295)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:503)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:827)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:511)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:210)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:379)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:361)
+	at org.mortbay.thread.BoundedThreadPool$PoolThread.run(BoundedThreadPool.java:442)
+18 Jun 2014 00:57:20,459|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:57:20,490|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:57:20,521|ERROR|StackTrace|Sanitizing stacktrace:
+org.codehaus.groovy.grails.web.taglib.exceptions.GrailsTagException: Grails tags were not closed! [[<g:link>]] in GSP file [D:\Project\famree\grails-app\views\layouts\main.gsp]
+	at org.codehaus.groovy.grails.web.pages.Parse.page(Parse.java:374)
+	at org.codehaus.groovy.grails.web.pages.Parse.parse(Parse.java:157)
+	at org.codehaus.groovy.grails.web.pages.GroovyPagesTemplateEngine.buildPageMetaInfo(GroovyPagesTemplateEngine.java:403)
+	at org.codehaus.groovy.grails.web.pages.GroovyPagesTemplateEngine.createTemplate(GroovyPagesTemplateEngine.java:296)
+	at org.codehaus.groovy.grails.web.pages.GroovyPagesTemplateEngine.createTemplateWithResource(GroovyPagesTemplateEngine.java:280)
+	at org.codehaus.groovy.grails.web.pages.GroovyPagesTemplateEngine.createTemplate(GroovyPagesTemplateEngine.java:159)
+	at org.codehaus.groovy.grails.web.pages.GroovyPagesServlet.renderPageWithEngine(GroovyPagesServlet.java:148)
+	at org.codehaus.groovy.grails.web.pages.GroovyPagesServlet.doPage(GroovyPagesServlet.java:131)
+	at org.codehaus.groovy.grails.web.pages.GroovyPagesServlet.doGet(GroovyPagesServlet.java:95)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:487)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:367)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:712)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.servlet.Dispatcher.forward(Dispatcher.java:268)
+	at org.mortbay.jetty.servlet.Dispatcher.forward(Dispatcher.java:126)
+	at org.codehaus.groovy.grails.web.sitemesh.GrailsPageFilter.applyDecorator(GrailsPageFilter.java:185)
+	at org.codehaus.groovy.grails.web.sitemesh.GrailsPageFilter.doFilter(GrailsPageFilter.java:93)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1089)
+	at org.codehaus.groovy.grails.web.servlet.mvc.GrailsWebRequestFilter.doFilterInternal(GrailsWebRequestFilter.java:65)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:76)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1089)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:76)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:236)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:167)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1089)
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:265)
+	at org.acegisecurity.intercept.web.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:107)
+	at org.acegisecurity.intercept.web.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:72)
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:275)
+	at org.acegisecurity.ui.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:166)
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:275)
+	at org.acegisecurity.providers.anonymous.AnonymousProcessingFilter.doFilter(AnonymousProcessingFilter.java:125)
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:275)
+	at org.acegisecurity.ui.rememberme.RememberMeProcessingFilter.doFilter(RememberMeProcessingFilter.java:135)
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:275)
+	at org.acegisecurity.wrapper.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:81)
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:275)
+	at org.acegisecurity.ui.AbstractProcessingFilter.doFilter(AbstractProcessingFilter.java:271)
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:275)
+	at org.acegisecurity.ui.logout.LogoutFilter.doFilter(LogoutFilter.java:110)
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:275)
+	at org.acegisecurity.context.HttpSessionContextIntegrationFilter.doFilter(HttpSessionContextIntegrationFilter.java:249)
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:275)
+	at org.acegisecurity.util.FilterChainProxy.doFilter(FilterChainProxy.java:149)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:236)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:167)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1089)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:365)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:181)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:712)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:405)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:139)
+	at org.mortbay.jetty.Server.handle(Server.java:295)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:503)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:827)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:511)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:210)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:379)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:361)
+	at org.mortbay.thread.BoundedThreadPool$PoolThread.run(BoundedThreadPool.java:442)
+18 Jun 2014 00:57:38,278|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:57:38,311|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:57:39,851|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:57:39,895|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 00:58:03,470|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 00:58:03,482|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 00:58:04,978|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 00:58:04,988|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 01:51:07,124|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 01:51:07,145|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 01:51:08,535|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 01:51:08,579|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 01:53:14,891|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 01:53:14,901|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 01:53:16,209|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 01:53:16,220|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 01:53:16,754|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 01:53:16,762|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 01:53:18,066|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 01:53:18,078|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 01:53:18,860|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 01:53:18,870|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 01:53:20,157|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 01:53:20,168|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 01:53:31,594|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 01:53:31,605|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 01:53:32,975|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 01:53:32,987|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 01:55:15,306|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 01:55:15,315|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 01:55:16,652|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 01:55:16,663|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 01:56:06,045|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 01:56:06,057|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 01:56:07,377|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 01:56:07,387|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 01:57:37,653|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 01:57:37,667|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 01:57:38,977|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 01:57:38,988|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 01:59:15,563|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 01:59:15,574|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 01:59:16,890|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 01:59:16,899|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 01:59:35,755|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 01:59:35,765|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 01:59:37,169|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 01:59:37,178|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 02:00:01,274|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 02:00:01,286|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 02:00:02,602|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 02:00:02,611|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 02:02:25,992|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 02:02:26,002|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 02:02:27,319|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 02:02:27,328|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 02:03:53,884|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 02:03:53,893|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 02:03:55,248|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 02:03:55,258|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 05:09:07,895|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 05:09:07,901|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 05:09:07,921|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 05:09:07,921|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 05:09:09,391|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 05:09:09,433|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 05:09:51,139|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 05:09:51,148|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 05:09:52,479|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 05:09:52,491|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 05:09:58,544|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 05:09:58,554|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 05:09:59,884|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 05:09:59,894|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 05:10:05,856|DEBUG|grails.app.controller.HomeController|IN /home/faq ["action":"faq", "controller":"home"]
+18 Jun 2014 05:10:05,859|DEBUG|grails.app.controller.HomeController|OUT /home/faq
+18 Jun 2014 05:10:08,836|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+18 Jun 2014 05:10:08,855|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Jun 2014 05:10:19,521|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 05:10:19,530|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 05:10:20,846|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 05:10:20,857|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 05:10:27,204|DEBUG|grails.app.controller.AdminController|IN /admin/index ["action":"index", "controller":"admin"]
+18 Jun 2014 05:10:27,205|DEBUG|grails.app.controller.AdminController|OUT /admin/index
+18 Jun 2014 05:10:32,650|DEBUG|grails.app.controller.AdminController|IN /admin/refreshUpcomingEventsAjax ["action":"refreshUpcomingEventsAjax", "controller":"admin"]
+18 Jun 2014 05:10:32,658|DEBUG|grails.app.controller.AdminController|OUT /admin/refreshUpcomingEventsAjax
+18 Jun 2014 05:10:39,559|DEBUG|grails.app.controller.AdminController|IN /admin/index ["action":"index", "controller":"admin"]
+18 Jun 2014 05:10:39,559|DEBUG|grails.app.controller.AdminController|OUT /admin/index
+18 Jun 2014 05:10:41,514|DEBUG|grails.app.controller.ItemController|IN /item/index ["action":"index", "controller":"item"]
+18 Jun 2014 05:10:41,515|DEBUG|grails.app.controller.ItemController|OUT /item/index
+18 Jun 2014 05:10:41,657|DEBUG|grails.app.controller.ItemController|IN /item/list ["action":"list", "controller":"item"]
+18 Jun 2014 05:10:41,658|DEBUG|grails.app.controller.ItemController|OUT /item/list
+18 Jun 2014 05:10:47,601|DEBUG|grails.app.controller.AdminController|IN /admin/index ["action":"index", "controller":"admin"]
+18 Jun 2014 05:10:47,601|DEBUG|grails.app.controller.AdminController|OUT /admin/index
+18 Jun 2014 05:10:51,718|DEBUG|grails.app.controller.MemberController|IN /member/index ["action":"index", "controller":"member"]
+18 Jun 2014 05:10:51,719|DEBUG|grails.app.controller.MemberController|OUT /member/index
+18 Jun 2014 05:10:51,862|DEBUG|grails.app.controller.MemberController|IN /member/list ["action":"list", "controller":"member"]
+18 Jun 2014 05:10:51,867|DEBUG|grails.app.controller.MemberController|OUT /member/list
+18 Jun 2014 05:10:57,592|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+18 Jun 2014 05:10:57,605|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Jun 2014 05:15:47,076|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 05:15:47,085|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 05:15:48,368|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 05:15:48,379|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 05:15:49,611|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+18 Jun 2014 05:15:49,627|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Jun 2014 05:15:51,690|DEBUG|grails.app.controller.MemberController|IN /member/list ["action":"list", "controller":"member"]
+18 Jun 2014 05:15:51,694|DEBUG|grails.app.controller.MemberController|OUT /member/list
+18 Jun 2014 05:15:54,247|DEBUG|grails.app.controller.MemberController|IN /member/create ["action":"create", "_action_create":"New Member", "controller":"member"]
+18 Jun 2014 05:15:54,393|DEBUG|grails.app.controller.MemberController|OUT /member/create
+18 Jun 2014 05:33:03,435|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 05:33:04,305|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 05:33:04,478|DEBUG|grails.app.service.TemplateService|Initializing template cache
+18 Jun 2014 05:33:05,897|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 05:33:05,934|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 05:33:43,968|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 05:33:43,982|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 05:33:45,283|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 05:33:45,421|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 05:34:24,386|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 05:34:24,397|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 05:34:25,784|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 05:34:25,799|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 05:34:29,894|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 05:34:29,905|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 05:34:31,205|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 05:34:31,222|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 05:35:03,126|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 05:35:03,774|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 05:35:04,062|DEBUG|grails.app.service.TemplateService|Initializing template cache
+18 Jun 2014 05:35:04,575|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 05:35:04,610|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 05:35:36,114|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 05:35:36,129|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 05:35:37,443|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 05:35:37,564|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 05:36:56,121|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 05:36:56,134|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 05:36:59,395|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 05:36:59,413|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 07:05:04,627|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 07:05:06,037|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 07:05:06,879|DEBUG|grails.app.service.TemplateService|Initializing template cache
+18 Jun 2014 07:05:07,787|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 07:05:07,834|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 07:05:40,787|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Jun 2014 07:05:40,801|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Jun 2014 07:05:41,148|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Jun 2014 07:05:41,446|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Jun 2014 07:06:00,155|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+18 Jun 2014 07:06:00,210|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Jun 2014 07:06:19,195|DEBUG|grails.app.controller.MemberController|IN /member/list ["action":"list", "controller":"member"]
+18 Jun 2014 07:06:19,200|DEBUG|grails.app.controller.MemberController|OUT /member/list
+18 Jun 2014 07:06:44,076|DEBUG|grails.app.controller.MemberController|IN /member/create ["action":"create", "_action_create":"New Member", "controller":"member"]
+18 Jun 2014 07:06:44,160|DEBUG|grails.app.controller.MemberController|OUT /member/create
+18 Jun 2014 07:08:08,103|DEBUG|grails.app.controller.MemberController|IN /member/save ["weddingDate":"struct", "birthDate_month":"8", "weddingDate_year":"2014", "nickname":"mirzad", "weddingDate_day":"18", "parent":["id":"-1"], "deathDate_year":"", "avatar":org.springframework.web.multipart.commons.CommonsMultipartFile@1adb8c8, "deathDate":"struct", "birthDate_day":"10", "spouseId":"0", "activeFlag":"true", "deathDate_day":"", "name":"ali", "parent.id":"-1", "action":"save", "weddingDate_month":"6", "gender":"", "birthDate":"struct", "controller":"member", "birthDate_year":"1960", "deathDate_month":""]
+18 Jun 2014 07:08:08,230|DEBUG|grails.app.controller.MemberController|OUT /member/save
+18 Jun 2014 07:08:13,562|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "active":"true", "gender":"MALE", "_":"", "controller":"member"]
+18 Jun 2014 07:08:13,562|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "gender":"MALE", "_":"", "controller":"member"]
+18 Jun 2014 07:08:13,653|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+18 Jun 2014 07:08:13,653|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+18 Jun 2014 07:08:21,503|DEBUG|grails.app.controller.MemberController|IN /member/save ["weddingDate":"struct", "birthDate_month":"8", "weddingDate_year":"2014", "nickname":"mirzad", "weddingDate_day":"18", "parent":["id":"1"], "deathDate_year":"", "avatar":org.springframework.web.multipart.commons.CommonsMultipartFile@2afee5, "deathDate":"struct", "birthDate_day":"10", "spouseId":"0", "activeFlag":"true", "deathDate_day":"", "name":"ali", "parent.id":"1", "action":"save", "weddingDate_month":"6", "gender":"MALE", "birthDate":"struct", "controller":"member", "birthDate_year":"1960", "deathDate_month":""]
+18 Jun 2014 07:08:21,525|DEBUG|grails.app.service.MemberService|IN FamilyMemberService::createFamilyMember
+18 Jun 2014 07:08:21,571|DEBUG|grails.app.service.MemberService|OUT FamilyMemberService::createFamilyMember
+18 Jun 2014 07:08:21,606|DEBUG|grails.app.controller.MemberController|OUT /member/save
+18 Jun 2014 07:08:21,871|DEBUG|grails.app.controller.MemberController|IN /member/display ["id":"7", "action":"display", "controller":"member"]
+18 Jun 2014 07:08:21,888|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Jun 2014 07:08:43,043|DEBUG|grails.app.controller.MemberController|IN /member/edit ["id":"7", "action":"edit", "controller":"member"]
+18 Jun 2014 07:08:43,058|DEBUG|grails.app.controller.MemberController|OUT /member/edit
+18 Jun 2014 07:08:56,094|DEBUG|grails.app.controller.MemberController|IN /member/update ["birthDate_month":"8", "nickname":"mirzad", "_action_update":"Update", "parent":["id":"1"], "deathDate_year":"", "avatar":org.springframework.web.multipart.commons.CommonsMultipartFile@1e5aefe, "deathDate":"struct", "id":"7", "birthDate_day":"10", "deathDate_day":"", "parent.id":"1", "name":"ali", "action":"update", "gender":"MALE", "birthDate":"struct", "controller":"member", "birthDate_year":"1960", "deathDate_month":""]
+18 Jun 2014 07:08:56,121|DEBUG|grails.app.service.MemberService|IN MemberService::updateFamilyMember
+18 Jun 2014 07:08:56,124|DEBUG|grails.app.service.MemberService|OUT MemberService::updateFamilyMember
+18 Jun 2014 07:08:56,160|DEBUG|grails.app.controller.MemberController|OUT /member/update
+18 Jun 2014 07:08:56,311|DEBUG|grails.app.controller.MemberController|IN /member/display ["id":"7", "action":"display", "controller":"member"]
+18 Jun 2014 07:08:56,330|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Jun 2014 07:08:56,717|DEBUG|grails.app.controller.MemberController|IN /member/avatar ["id":"7", "action":"avatar", "controller":"member"]
+18 Jun 2014 07:08:56,724|DEBUG|grails.app.controller.MemberController|OUT /member/avatar
+18 Jun 2014 07:09:01,581|DEBUG|grails.app.controller.MemberController|IN /member/create ["spouseId":"7", "action":"create", "gender":"FEMALE", "controller":"member"]
+18 Jun 2014 07:09:01,592|DEBUG|grails.app.controller.MemberController|OUT /member/create
+18 Jun 2014 07:10:00,130|DEBUG|grails.app.controller.MemberController|IN /member/save ["weddingDate":"struct", "birthDate_month":"9", "weddingDate_year":"1998", "nickname":"mirzad", "weddingDate_day":"18", "parent":["id":"-1"], "deathDate_year":"", "avatar":org.springframework.web.multipart.commons.CommonsMultipartFile@1824c0c, "deathDate":"struct", "birthDate_day":"11", "spouseId":"7", "activeFlag":"true", "deathDate_day":"", "name":"mqryqm", "parent.id":"-1", "action":"save", "weddingDate_month":"6", "gender":"FEMALE", "birthDate":"struct", "controller":"member", "birthDate_year":"1976", "deathDate_month":""]
+18 Jun 2014 07:10:00,148|DEBUG|grails.app.service.MemberService|IN FamilyMemberService::createFamilyMember
+18 Jun 2014 07:10:00,152|DEBUG|grails.app.service.MemberService|OUT FamilyMemberService::createFamilyMember
+18 Jun 2014 07:10:00,192|DEBUG|grails.app.controller.MemberController|OUT /member/save
+18 Jun 2014 07:10:00,340|DEBUG|grails.app.controller.MemberController|IN /member/display ["id":"8", "action":"display", "controller":"member"]
+18 Jun 2014 07:10:00,357|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Jun 2014 07:10:00,766|DEBUG|grails.app.controller.MemberController|IN /member/avatar ["id":"7", "action":"avatar", "controller":"member"]
+18 Jun 2014 07:10:00,766|DEBUG|grails.app.controller.MemberController|IN /member/avatar ["id":"8", "action":"avatar", "controller":"member"]
+18 Jun 2014 07:10:00,769|DEBUG|grails.app.controller.MemberController|OUT /member/avatar
+18 Jun 2014 07:10:00,770|DEBUG|grails.app.controller.MemberController|OUT /member/avatar
+18 Jun 2014 07:13:27,371|DEBUG|grails.app.controller.WeddingController|IN /wedding/edit ["id":"3", "action":"edit", "controller":"wedding"]
+18 Jun 2014 07:13:27,481|DEBUG|grails.app.controller.WeddingController|OUT /wedding/edit
+18 Jun 2014 07:13:35,909|DEBUG|grails.app.controller.MemberController|IN /member/edit ["id":"7", "action":"edit", "controller":"member"]
+18 Jun 2014 07:13:35,915|DEBUG|grails.app.controller.MemberController|OUT /member/edit

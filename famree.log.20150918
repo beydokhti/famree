@@ -1,0 +1,209 @@
+18 Sep 2015 15:32:33,235|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Sep 2015 15:32:37,463|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Sep 2015 15:32:39,333|DEBUG|grails.app.service.TemplateService|Initializing template cache
+18 Sep 2015 15:32:43,349|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Sep 2015 15:32:43,676|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Sep 2015 15:33:32,564|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Sep 2015 15:33:32,705|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Sep 2015 15:33:34,283|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Sep 2015 15:33:34,297|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Sep 2015 15:33:40,344|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+18 Sep 2015 15:33:40,374|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:33:46,570|DEBUG|grails.app.controller.MemberController|IN /member/create ["action":"create", "controller":"member"]
+18 Sep 2015 15:33:50,561|DEBUG|grails.app.controller.MemberController|OUT /member/create
+18 Sep 2015 15:34:11,133|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "active":"true", "gender":"MALE", "_":"", "controller":"member"]
+18 Sep 2015 15:34:11,300|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+18 Sep 2015 15:34:11,539|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "gender":"MALE", "_":"", "controller":"member"]
+18 Sep 2015 15:34:11,561|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+18 Sep 2015 15:34:11,982|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "active":"true", "gender":"FEMALE", "_":"", "controller":"member"]
+18 Sep 2015 15:34:12,034|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+18 Sep 2015 15:34:12,188|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "gender":"FEMALE", "_":"", "controller":"member"]
+18 Sep 2015 15:34:12,242|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+18 Sep 2015 15:34:25,773|DEBUG|grails.app.controller.MemberController|IN /member/save ["weddingDate":"struct", "birthDate_month":"1", "weddingDate_year":"2015", "nickname":"fw", "weddingDate_day":"18", "parent":["id":"-1"], "deathDate_year":"1921", "avatar":org.springframework.web.multipart.commons.CommonsMultipartFile@121304c, "deathDate":"struct", "birthDate_day":"1", "spouseId":"1", "activeFlag":"true", "deathDate_day":"1", "name":"first wife", "parent.id":"-1", "action":"save", "weddingDate_month":"9", "gender":"FEMALE", "birthDate":"struct", "controller":"member", "birthDate_year":"1915", "deathDate_month":"1"]
+18 Sep 2015 15:34:26,163|DEBUG|grails.app.controller.MemberController|OUT /member/save
+18 Sep 2015 15:34:43,844|DEBUG|grails.app.controller.MemberController|IN /member/save ["weddingDate":"struct", "birthDate_month":"1", "weddingDate_year":"1921", "nickname":"fw", "weddingDate_day":"18", "parent":["id":"-1"], "deathDate_year":"1921", "avatar":org.springframework.web.multipart.commons.CommonsMultipartFile@1978e96, "deathDate":"struct", "birthDate_day":"1", "spouseId":"1", "activeFlag":"true", "deathDate_day":"1", "name":"first wife", "parent.id":"-1", "action":"save", "weddingDate_month":"9", "gender":"FEMALE", "birthDate":"struct", "controller":"member", "birthDate_year":"1915", "deathDate_month":"1"]
+18 Sep 2015 15:34:43,953|DEBUG|grails.app.controller.MemberController|OUT /member/save
+18 Sep 2015 15:34:56,777|DEBUG|grails.app.controller.MemberController|IN /member/save ["weddingDate":"struct", "birthDate_month":"1", "weddingDate_year":"1921", "nickname":"fw", "weddingDate_day":"18", "parent":["id":"-1"], "deathDate_year":"1924", "avatar":org.springframework.web.multipart.commons.CommonsMultipartFile@79dbc7, "deathDate":"struct", "birthDate_day":"1", "spouseId":"1", "activeFlag":"true", "deathDate_day":"1", "name":"first wife", "parent.id":"-1", "action":"save", "weddingDate_month":"9", "gender":"FEMALE", "birthDate":"struct", "controller":"member", "birthDate_year":"1915", "deathDate_month":"1"]
+18 Sep 2015 15:34:56,904|DEBUG|grails.app.service.MemberService|IN FamilyMemberService::createFamilyMember
+18 Sep 2015 15:34:56,984|DEBUG|grails.app.service.MemberService|OUT FamilyMemberService::createFamilyMember
+18 Sep 2015 15:34:57,113|DEBUG|grails.app.controller.MemberController|OUT /member/save
+18 Sep 2015 15:34:57,818|DEBUG|grails.app.controller.MemberController|IN /member/display ["id":"2", "action":"display", "controller":"member"]
+18 Sep 2015 15:34:57,952|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:35:05,227|DEBUG|grails.app.controller.MemberController|IN /member/create ["action":"create", "controller":"member"]
+18 Sep 2015 15:35:14,788|DEBUG|grails.app.controller.MemberController|OUT /member/create
+18 Sep 2015 15:36:21,448|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+18 Sep 2015 15:36:21,502|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:36:27,429|DEBUG|grails.app.controller.MemberController|IN /member/renderMember ["id":"1", "action":"renderMember", "controller":"member"]
+18 Sep 2015 15:36:27,837|DEBUG|grails.app.controller.MemberController|OUT /member/renderMember
+18 Sep 2015 15:36:31,550|DEBUG|grails.app.controller.WeddingController|IN /wedding/edit ["id":"1", "action":"edit", "controller":"wedding"]
+18 Sep 2015 15:36:32,243|DEBUG|grails.app.controller.WeddingController|OUT /wedding/edit
+18 Sep 2015 15:36:48,692|DEBUG|grails.app.controller.MemberController|IN /member/delete ["id":"2", "action":"delete", "controller":"member"]
+18 Sep 2015 15:36:48,725|DEBUG|grails.app.service.MemberService|IN MemberService::deleteFamilyMember
+18 Sep 2015 15:36:48,764|DEBUG|grails.app.service.MemberService|OUT MemberService::deleteFamilyMember
+18 Sep 2015 15:36:48,914|DEBUG|grails.app.controller.MemberController|OUT /member/delete
+18 Sep 2015 15:36:49,549|DEBUG|grails.app.controller.MemberController|IN /member/list ["action":"list", "controller":"member"]
+18 Sep 2015 15:36:49,590|DEBUG|grails.app.controller.MemberController|OUT /member/list
+18 Sep 2015 15:36:58,764|DEBUG|grails.app.controller.MemberController|IN /member/create ["action":"create", "_action_create":"New Member", "controller":"member"]
+18 Sep 2015 15:36:58,777|DEBUG|grails.app.controller.MemberController|OUT /member/create
+18 Sep 2015 15:37:11,466|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "active":"true", "gender":"MALE", "_":"", "controller":"member"]
+18 Sep 2015 15:37:11,526|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+18 Sep 2015 15:37:11,886|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "gender":"MALE", "_":"", "controller":"member"]
+18 Sep 2015 15:37:11,898|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+18 Sep 2015 15:37:12,293|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "gender":"FEMALE", "_":"", "controller":"member"]
+18 Sep 2015 15:37:12,293|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "active":"true", "gender":"FEMALE", "_":"", "controller":"member"]
+18 Sep 2015 15:37:12,342|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+18 Sep 2015 15:37:12,384|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+18 Sep 2015 15:37:33,740|DEBUG|grails.app.controller.MemberController|IN /member/save ["weddingDate":"struct", "birthDate_month":"1", "weddingDate_year":"1920", "nickname":"fe", "weddingDate_day":"18", "parent":["id":"-1"], "deathDate_year":"1937", "avatar":org.springframework.web.multipart.commons.CommonsMultipartFile@15610c9, "deathDate":"struct", "birthDate_day":"1", "activeFlag":"", "deathDate_day":"1", "parent.id":"-1", "name":"fw", "action":"save", "weddingDate_month":"9", "gender":"FEMALE", "birthDate":"struct", "controller":"member", "prevSpouseId":"1", "birthDate_year":"1915", "deathDate_month":"2"]
+18 Sep 2015 15:37:33,835|DEBUG|grails.app.service.MemberService|IN FamilyMemberService::createFamilyMember
+18 Sep 2015 15:37:33,880|DEBUG|grails.app.service.MemberService|OUT FamilyMemberService::createFamilyMember
+18 Sep 2015 15:37:33,992|DEBUG|grails.app.controller.MemberController|OUT /member/save
+18 Sep 2015 15:37:34,773|DEBUG|grails.app.controller.MemberController|IN /member/display ["id":"3", "action":"display", "controller":"member"]
+18 Sep 2015 15:37:34,853|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:37:41,092|DEBUG|grails.app.controller.MemberController|IN /member/renderMember ["id":"1", "action":"renderMember", "controller":"member"]
+18 Sep 2015 15:37:41,339|DEBUG|grails.app.controller.MemberController|OUT /member/renderMember
+18 Sep 2015 15:37:45,452|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+18 Sep 2015 15:37:45,512|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:37:51,725|DEBUG|grails.app.controller.MemberController|IN /member/renderMember ["id":"1", "action":"renderMember", "controller":"member"]
+18 Sep 2015 15:37:51,930|DEBUG|grails.app.controller.MemberController|OUT /member/renderMember
+18 Sep 2015 15:37:57,453|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+18 Sep 2015 15:37:57,507|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:38:02,487|DEBUG|grails.app.controller.MemberController|IN /member/create ["action":"create", "controller":"member"]
+18 Sep 2015 15:38:02,552|DEBUG|grails.app.controller.MemberController|OUT /member/create
+18 Sep 2015 15:38:09,506|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+18 Sep 2015 15:38:09,573|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:38:12,275|DEBUG|grails.app.controller.MemberController|IN /member/list ["action":"list", "controller":"member"]
+18 Sep 2015 15:38:12,320|DEBUG|grails.app.controller.MemberController|OUT /member/list
+18 Sep 2015 15:38:19,482|DEBUG|grails.app.controller.MemberController|IN /member/display ["id":"3", "action":"display", "controller":"member"]
+18 Sep 2015 15:38:19,532|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:38:43,198|DEBUG|grails.app.controller.MemberController|IN /member/renderMember ["id":"1", "action":"renderMember", "controller":"member"]
+18 Sep 2015 15:38:43,328|DEBUG|grails.app.controller.MemberController|OUT /member/renderMember
+18 Sep 2015 15:38:52,198|DEBUG|grails.app.controller.MemberController|IN /member/create ["spouseId":"1", "action":"create", "gender":"FEMALE", "controller":"member"]
+18 Sep 2015 15:38:52,226|DEBUG|grails.app.controller.MemberController|OUT /member/create
+18 Sep 2015 15:38:57,880|DEBUG|grails.app.controller.MemberController|IN /member/save ["weddingDate":"struct", "birthDate_month":"", "weddingDate_year":"2015", "nickname":"d", "weddingDate_day":"18", "parent":["id":"-1"], "deathDate_year":"", "avatar":org.springframework.web.multipart.commons.CommonsMultipartFile@1f3d1f5, "deathDate":"struct", "birthDate_day":"", "spouseId":"1", "activeFlag":"true", "deathDate_day":"", "name":"sw", "parent.id":"-1", "action":"save", "weddingDate_month":"9", "gender":"FEMALE", "birthDate":"struct", "controller":"member", "birthDate_year":"", "deathDate_month":""]
+18 Sep 2015 15:38:58,050|DEBUG|grails.app.controller.MemberController|OUT /member/save
+18 Sep 2015 15:39:43,575|DEBUG|grails.app.controller.MemberController|IN /member/save ["weddingDate":"struct", "birthDate_month":"2", "weddingDate_year":"1923", "nickname":"d", "weddingDate_day":"18", "parent":["id":"-1"], "deathDate_year":"1933", "avatar":org.springframework.web.multipart.commons.CommonsMultipartFile@15fbbd7, "deathDate":"struct", "birthDate_day":"2", "activeFlag":"", "deathDate_day":"2", "parent.id":"-1", "name":"sw", "action":"save", "weddingDate_month":"9", "gender":"FEMALE", "birthDate":"struct", "controller":"member", "prevSpouseId":"1", "birthDate_year":"1916", "deathDate_month":"2"]
+18 Sep 2015 15:39:43,771|DEBUG|grails.app.service.MemberService|IN FamilyMemberService::createFamilyMember
+18 Sep 2015 15:39:43,780|DEBUG|grails.app.service.MemberService|OUT FamilyMemberService::createFamilyMember
+18 Sep 2015 15:39:43,898|DEBUG|grails.app.controller.MemberController|OUT /member/save
+18 Sep 2015 15:39:44,517|DEBUG|grails.app.controller.MemberController|IN /member/display ["id":"4", "action":"display", "controller":"member"]
+18 Sep 2015 15:39:44,572|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:39:51,438|DEBUG|grails.app.controller.MemberController|IN /member/create ["action":"create", "controller":"member"]
+18 Sep 2015 15:39:51,502|DEBUG|grails.app.controller.MemberController|OUT /member/create
+18 Sep 2015 15:40:14,662|DEBUG|grails.app.controller.MemberController|IN /member/save ["weddingDate":"struct", "birthDate_month":"2", "weddingDate_year":"2015", "nickname":"CH1", "weddingDate_day":"18", "parent":["id":"2"], "deathDate_year":"1939", "avatar":org.springframework.web.multipart.commons.CommonsMultipartFile@432a9e, "deathDate":"struct", "birthDate_day":"2", "spouseId":"0", "activeFlag":"true", "deathDate_day":"2", "name":"CH1", "parent.id":"2", "action":"save", "weddingDate_month":"9", "gender":"", "birthDate":"struct", "controller":"member", "birthDate_year":"1922", "deathDate_month":"2"]
+18 Sep 2015 15:40:14,740|DEBUG|grails.app.controller.MemberController|OUT /member/save
+18 Sep 2015 15:40:21,332|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "active":"true", "gender":"MALE", "_":"", "controller":"member"]
+18 Sep 2015 15:40:21,430|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+18 Sep 2015 15:40:21,705|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "gender":"MALE", "_":"", "controller":"member"]
+18 Sep 2015 15:40:21,765|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+18 Sep 2015 15:40:23,824|DEBUG|grails.app.controller.MemberController|IN /member/save ["weddingDate":"struct", "birthDate_month":"2", "weddingDate_year":"2015", "nickname":"CH1", "weddingDate_day":"18", "parent":["id":"2"], "deathDate_year":"1939", "avatar":org.springframework.web.multipart.commons.CommonsMultipartFile@e2d428, "deathDate":"struct", "birthDate_day":"2", "spouseId":"0", "activeFlag":"true", "deathDate_day":"2", "name":"CH1", "parent.id":"2", "action":"save", "weddingDate_month":"9", "gender":"MALE", "birthDate":"struct", "controller":"member", "birthDate_year":"1922", "deathDate_month":"2"]
+18 Sep 2015 15:40:23,909|DEBUG|grails.app.service.MemberService|IN FamilyMemberService::createFamilyMember
+18 Sep 2015 15:40:23,913|DEBUG|grails.app.service.MemberService|OUT FamilyMemberService::createFamilyMember
+18 Sep 2015 15:40:24,028|DEBUG|grails.app.controller.MemberController|OUT /member/save
+18 Sep 2015 15:40:24,674|DEBUG|grails.app.controller.MemberController|IN /member/display ["id":"5", "action":"display", "controller":"member"]
+18 Sep 2015 15:40:24,771|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:40:38,663|DEBUG|grails.app.controller.MemberController|IN /member/create ["action":"create", "controller":"member"]
+18 Sep 2015 15:40:38,697|DEBUG|grails.app.controller.MemberController|OUT /member/create
+18 Sep 2015 15:40:52,302|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "active":"true", "gender":"MALE", "_":"", "controller":"member"]
+18 Sep 2015 15:40:52,349|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+18 Sep 2015 15:40:52,659|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "gender":"MALE", "_":"", "controller":"member"]
+18 Sep 2015 15:40:52,694|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+18 Sep 2015 15:40:52,990|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "active":"true", "gender":"FEMALE", "_":"", "controller":"member"]
+18 Sep 2015 15:40:53,075|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+18 Sep 2015 15:40:53,319|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "gender":"FEMALE", "_":"", "controller":"member"]
+18 Sep 2015 15:40:53,371|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+18 Sep 2015 15:41:03,657|DEBUG|grails.app.controller.MemberController|IN /member/save ["weddingDate":"struct", "birthDate_month":"2", "weddingDate_year":"2015", "nickname":"CH2", "weddingDate_day":"18", "parent":["id":"3"], "deathDate_year":"1932", "avatar":org.springframework.web.multipart.commons.CommonsMultipartFile@6482ca, "deathDate":"struct", "birthDate_day":"1", "spouseId":"5", "activeFlag":"true", "deathDate_day":"1", "name":"CH2", "parent.id":"3", "action":"save", "weddingDate_month":"9", "gender":"FEMALE", "birthDate":"struct", "controller":"member", "birthDate_year":"1926", "deathDate_month":"2"]
+18 Sep 2015 15:41:03,884|DEBUG|grails.app.controller.MemberController|OUT /member/save
+18 Sep 2015 15:41:17,861|DEBUG|grails.app.controller.MemberController|IN /member/save ["weddingDate":"struct", "birthDate_month":"2", "weddingDate_year":"1930", "nickname":"CH2", "weddingDate_day":"18", "parent":["id":"3"], "deathDate_year":"1932", "avatar":org.springframework.web.multipart.commons.CommonsMultipartFile@1d951dc, "deathDate":"struct", "birthDate_day":"1", "spouseId":"5", "activeFlag":"true", "deathDate_day":"1", "name":"CH2", "parent.id":"3", "action":"save", "weddingDate_month":"9", "gender":"FEMALE", "birthDate":"struct", "controller":"member", "birthDate_year":"1926", "deathDate_month":"2"]
+18 Sep 2015 15:41:17,963|DEBUG|grails.app.service.MemberService|IN FamilyMemberService::createFamilyMember
+18 Sep 2015 15:41:17,988|DEBUG|grails.app.service.MemberService|OUT FamilyMemberService::createFamilyMember
+18 Sep 2015 15:41:18,132|DEBUG|grails.app.controller.MemberController|OUT /member/save
+18 Sep 2015 15:41:18,786|DEBUG|grails.app.controller.MemberController|IN /member/display ["id":"6", "action":"display", "controller":"member"]
+18 Sep 2015 15:41:18,863|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:41:25,440|DEBUG|grails.app.controller.MemberController|IN /member/renderMember ["id":"6", "action":"renderMember", "controller":"member"]
+18 Sep 2015 15:41:25,848|DEBUG|grails.app.controller.MemberController|OUT /member/renderMember
+18 Sep 2015 15:41:29,786|DEBUG|grails.app.controller.MemberController|IN /member/renderMember ["id":"5", "action":"renderMember", "controller":"member"]
+18 Sep 2015 15:41:30,146|DEBUG|grails.app.controller.MemberController|OUT /member/renderMember
+18 Sep 2015 15:41:47,221|DEBUG|grails.app.controller.MemberController|IN /member/renderMember ["id":"5", "action":"renderMember", "controller":"member"]
+18 Sep 2015 15:41:47,533|DEBUG|grails.app.controller.MemberController|OUT /member/renderMember
+18 Sep 2015 15:41:49,807|DEBUG|grails.app.controller.MemberController|IN /member/renderMember ["id":"6", "action":"renderMember", "controller":"member"]
+18 Sep 2015 15:41:50,233|DEBUG|grails.app.controller.MemberController|OUT /member/renderMember
+18 Sep 2015 15:41:57,058|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Sep 2015 15:41:57,246|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Sep 2015 15:41:58,590|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Sep 2015 15:41:59,355|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Sep 2015 15:42:02,573|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+18 Sep 2015 15:42:02,653|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:42:06,040|DEBUG|grails.app.controller.MemberController|IN /member/list ["action":"list", "controller":"member"]
+18 Sep 2015 15:42:06,069|DEBUG|grails.app.controller.MemberController|OUT /member/list
+18 Sep 2015 15:42:10,029|DEBUG|grails.app.controller.MemberController|IN /member/display ["id":"6", "action":"display", "controller":"member"]
+18 Sep 2015 15:42:10,114|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:42:13,499|DEBUG|grails.app.controller.MemberController|IN /member/create ["action":"create", "controller":"member"]
+18 Sep 2015 15:42:13,536|DEBUG|grails.app.controller.MemberController|OUT /member/create
+18 Sep 2015 15:42:17,559|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+18 Sep 2015 15:42:17,633|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:42:21,279|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+18 Sep 2015 15:42:21,347|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:42:23,644|DEBUG|grails.app.controller.MemberController|IN /member/list ["action":"list", "controller":"member"]
+18 Sep 2015 15:42:23,664|DEBUG|grails.app.controller.MemberController|OUT /member/list
+18 Sep 2015 15:42:28,721|DEBUG|grails.app.controller.MemberController|IN /member/display ["id":"6", "action":"display", "controller":"member"]
+18 Sep 2015 15:42:28,836|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:42:33,839|DEBUG|grails.app.controller.MemberController|IN /member/list ["action":"list", "controller":"member"]
+18 Sep 2015 15:42:33,857|DEBUG|grails.app.controller.MemberController|OUT /member/list
+18 Sep 2015 15:42:42,385|DEBUG|grails.app.controller.MemberController|IN /member/delete ["id":"6", "action":"delete", "controller":"member"]
+18 Sep 2015 15:42:42,420|DEBUG|grails.app.service.MemberService|IN MemberService::deleteFamilyMember
+18 Sep 2015 15:42:42,433|DEBUG|grails.app.service.MemberService|OUT MemberService::deleteFamilyMember
+18 Sep 2015 15:42:42,610|DEBUG|grails.app.controller.MemberController|OUT /member/delete
+18 Sep 2015 15:42:43,144|DEBUG|grails.app.controller.MemberController|IN /member/list ["action":"list", "controller":"member"]
+18 Sep 2015 15:42:43,161|DEBUG|grails.app.controller.MemberController|OUT /member/list
+18 Sep 2015 15:42:46,875|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+18 Sep 2015 15:42:46,925|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:42:51,948|DEBUG|grails.app.controller.MemberController|IN /member/renderMember ["id":"5", "action":"renderMember", "controller":"member"]
+18 Sep 2015 15:42:52,086|DEBUG|grails.app.controller.MemberController|OUT /member/renderMember
+18 Sep 2015 15:42:55,923|DEBUG|grails.app.controller.MemberController|IN /member/delete ["id":"5", "action":"delete", "controller":"member"]
+18 Sep 2015 15:42:55,949|DEBUG|grails.app.service.MemberService|IN MemberService::deleteFamilyMember
+18 Sep 2015 15:42:55,954|DEBUG|grails.app.service.MemberService|OUT MemberService::deleteFamilyMember
+18 Sep 2015 15:42:56,116|DEBUG|grails.app.controller.MemberController|OUT /member/delete
+18 Sep 2015 15:42:56,686|DEBUG|grails.app.controller.MemberController|IN /member/list ["action":"list", "controller":"member"]
+18 Sep 2015 15:42:56,720|DEBUG|grails.app.controller.MemberController|OUT /member/list
+18 Sep 2015 15:43:02,621|DEBUG|grails.app.controller.MemberController|IN /member/display ["id":"4", "action":"display", "controller":"member"]
+18 Sep 2015 15:43:02,652|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:43:07,714|DEBUG|grails.app.controller.MemberController|IN /member/delete ["id":"4", "action":"delete", "controller":"member"]
+18 Sep 2015 15:43:07,742|DEBUG|grails.app.service.MemberService|IN MemberService::deleteFamilyMember
+18 Sep 2015 15:43:07,776|DEBUG|grails.app.service.MemberService|OUT MemberService::deleteFamilyMember
+18 Sep 2015 15:43:07,863|DEBUG|grails.app.controller.MemberController|OUT /member/delete
+18 Sep 2015 15:43:08,475|DEBUG|grails.app.controller.MemberController|IN /member/list ["action":"list", "controller":"member"]
+18 Sep 2015 15:43:08,502|DEBUG|grails.app.controller.MemberController|OUT /member/list
+18 Sep 2015 15:43:11,903|DEBUG|grails.app.controller.MemberController|IN /member/display ["id":"3", "action":"display", "controller":"member"]
+18 Sep 2015 15:43:11,947|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:43:20,034|DEBUG|grails.app.controller.MemberController|IN /member/delete ["id":"3", "action":"delete", "controller":"member"]
+18 Sep 2015 15:43:20,057|DEBUG|grails.app.service.MemberService|IN MemberService::deleteFamilyMember
+18 Sep 2015 15:43:20,063|DEBUG|grails.app.service.MemberService|OUT MemberService::deleteFamilyMember
+18 Sep 2015 15:43:20,212|DEBUG|grails.app.controller.MemberController|OUT /member/delete
+18 Sep 2015 15:43:20,784|DEBUG|grails.app.controller.MemberController|IN /member/list ["action":"list", "controller":"member"]
+18 Sep 2015 15:43:20,822|DEBUG|grails.app.controller.MemberController|OUT /member/list
+18 Sep 2015 15:43:24,537|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+18 Sep 2015 15:43:24,560|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:43:38,171|DEBUG|grails.app.controller.MemberController|IN /member/renderMember ["id":"1", "action":"renderMember", "controller":"member"]
+18 Sep 2015 15:43:38,307|DEBUG|grails.app.controller.MemberController|OUT /member/renderMember
+18 Sep 2015 15:43:40,832|DEBUG|grails.app.controller.MemberController|IN /member/edit ["id":"1", "action":"edit", "controller":"member"]
+18 Sep 2015 15:43:40,888|DEBUG|grails.app.controller.MemberController|OUT /member/edit
+18 Sep 2015 15:44:16,440|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Sep 2015 15:44:16,550|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Sep 2015 15:44:17,785|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Sep 2015 15:44:17,808|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Sep 2015 15:44:27,554|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Sep 2015 15:44:27,664|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Sep 2015 15:44:28,836|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Sep 2015 15:44:28,843|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+18 Sep 2015 15:44:31,254|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+18 Sep 2015 15:44:31,275|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:44:36,716|DEBUG|grails.app.controller.MemberController|IN /member/renderMember ["id":"1", "action":"renderMember", "controller":"member"]
+18 Sep 2015 15:44:36,777|DEBUG|grails.app.controller.MemberController|OUT /member/renderMember
+18 Sep 2015 15:44:43,846|DEBUG|grails.app.controller.MemberController|IN /member/list ["action":"list", "controller":"member"]
+18 Sep 2015 15:44:43,860|DEBUG|grails.app.controller.MemberController|OUT /member/list
+18 Sep 2015 15:44:46,594|DEBUG|grails.app.controller.MemberController|IN /member/display ["id":"1", "action":"display", "controller":"member"]
+18 Sep 2015 15:44:46,618|DEBUG|grails.app.controller.MemberController|OUT /member/display
+18 Sep 2015 15:44:52,242|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+18 Sep 2015 15:44:52,421|DEBUG|grails.app.controller.HomeController|OUT /home/index
+18 Sep 2015 15:44:53,623|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+18 Sep 2015 15:44:53,649|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax

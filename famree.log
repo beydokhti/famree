@@ -1,0 +1,69 @@
+25 Dec 2015 10:20:12,190|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+25 Dec 2015 10:20:16,736|DEBUG|grails.app.controller.HomeController|OUT /home/index
+25 Dec 2015 10:20:18,742|DEBUG|grails.app.service.TemplateService|Initializing template cache
+25 Dec 2015 10:27:09,584|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+25 Dec 2015 10:27:11,080|DEBUG|grails.app.controller.HomeController|OUT /home/index
+25 Dec 2015 10:28:39,778|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+25 Dec 2015 10:28:40,924|DEBUG|grails.app.controller.HomeController|OUT /home/index
+25 Dec 2015 10:32:51,150|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+25 Dec 2015 10:32:52,388|DEBUG|grails.app.controller.HomeController|OUT /home/index
+25 Dec 2015 10:33:00,729|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+25 Dec 2015 10:33:01,880|DEBUG|grails.app.controller.MemberController|OUT /member/display
+25 Dec 2015 10:34:38,786|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+25 Dec 2015 10:34:39,874|DEBUG|grails.app.controller.HomeController|OUT /home/index
+25 Dec 2015 10:35:36,828|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+25 Dec 2015 10:35:38,038|DEBUG|grails.app.controller.HomeController|OUT /home/index
+25 Dec 2015 10:35:57,210|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+25 Dec 2015 10:35:58,216|DEBUG|grails.app.controller.MemberController|OUT /member/display
+25 Dec 2015 10:36:20,021|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+25 Dec 2015 10:36:20,997|DEBUG|grails.app.controller.MemberController|OUT /member/display
+25 Dec 2015 10:42:46,869|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+25 Dec 2015 10:42:47,898|DEBUG|grails.app.controller.MemberController|OUT /member/display
+25 Dec 2015 10:48:05,817|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+25 Dec 2015 10:48:06,765|DEBUG|grails.app.controller.MemberController|OUT /member/display
+25 Dec 2015 10:48:24,335|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+25 Dec 2015 10:48:25,385|DEBUG|grails.app.controller.HomeController|OUT /home/index
+25 Dec 2015 10:50:32,321|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+25 Dec 2015 10:50:33,331|DEBUG|grails.app.controller.MemberController|OUT /member/display
+25 Dec 2015 10:51:08,982|DEBUG|grails.app.controller.MemberController|IN /member/search ["query":"س", "action":"search", "controller":"member"]
+25 Dec 2015 10:51:09,161|DEBUG|grails.app.controller.MemberController|IN /member/search ["query":"سی", "action":"search", "controller":"member"]
+25 Dec 2015 10:51:10,798|DEBUG|grails.app.controller.MemberController|OUT /member/search
+25 Dec 2015 10:51:10,928|DEBUG|grails.app.controller.MemberController|IN /member/search ["query":"سید", "action":"search", "controller":"member"]
+25 Dec 2015 10:51:11,685|DEBUG|grails.app.controller.MemberController|OUT /member/search
+25 Dec 2015 10:51:12,190|DEBUG|grails.app.controller.MemberController|OUT /member/search
+25 Dec 2015 10:51:12,278|DEBUG|grails.app.controller.MemberController|IN /member/search ["query":"سی", "action":"search", "controller":"member"]
+25 Dec 2015 10:51:12,417|DEBUG|grails.app.controller.MemberController|IN /member/search ["query":"س", "action":"search", "controller":"member"]
+25 Dec 2015 10:51:13,503|DEBUG|grails.app.controller.MemberController|OUT /member/search
+25 Dec 2015 10:51:14,082|DEBUG|grails.app.controller.MemberController|IN /member/search ["query":"u", "action":"search", "controller":"member"]
+25 Dec 2015 10:51:14,516|DEBUG|grails.app.controller.MemberController|OUT /member/search
+25 Dec 2015 10:51:14,553|DEBUG|grails.app.controller.MemberController|IN /member/search ["query":"un", "action":"search", "controller":"member"]
+25 Dec 2015 10:51:14,553|DEBUG|grails.app.controller.MemberController|IN /member/search ["query":"unk", "action":"search", "controller":"member"]
+25 Dec 2015 10:51:14,864|DEBUG|grails.app.controller.MemberController|OUT /member/search
+25 Dec 2015 10:51:15,115|DEBUG|grails.app.controller.MemberController|OUT /member/search
+25 Dec 2015 10:51:15,248|DEBUG|grails.app.controller.MemberController|OUT /member/search
+25 Dec 2015 10:51:21,107|DEBUG|grails.app.controller.MemberController|IN /member/search ["query":"u", "action":"search", "controller":"member"]
+25 Dec 2015 10:51:21,370|DEBUG|grails.app.controller.MemberController|OUT /member/search
+25 Dec 2015 10:51:21,500|DEBUG|grails.app.controller.MemberController|IN /member/search ["query":"un", "action":"search", "controller":"member"]
+25 Dec 2015 10:51:21,852|DEBUG|grails.app.controller.MemberController|OUT /member/search
+25 Dec 2015 10:51:23,574|DEBUG|grails.app.controller.MemberController|IN /member/search ["query":"u", "action":"search", "controller":"member"]
+25 Dec 2015 10:51:23,838|DEBUG|grails.app.controller.MemberController|OUT /member/search
+25 Dec 2015 10:51:24,780|DEBUG|grails.app.controller.MemberController|IN /member/search ["query":"س", "action":"search", "controller":"member"]
+25 Dec 2015 10:51:26,101|DEBUG|grails.app.controller.MemberController|OUT /member/search
+25 Dec 2015 10:51:27,319|DEBUG|grails.app.controller.MemberController|IN /member/renderMember ["id":"1", "action":"renderMember", "controller":"member"]
+25 Dec 2015 10:51:29,186|DEBUG|grails.app.controller.MemberController|OUT /member/renderMember
+25 Dec 2015 10:51:29,455|DEBUG|grails.app.controller.MemberController|IN /member/search ["query":"سی", "action":"search", "controller":"member"]
+25 Dec 2015 10:51:29,618|DEBUG|grails.app.controller.MemberController|IN /member/search ["query":"سی", "action":"search", "controller":"member"]
+25 Dec 2015 10:51:30,506|DEBUG|grails.app.controller.MemberController|IN /member/search ["query":"سید", "action":"search", "controller":"member"]
+25 Dec 2015 10:51:30,527|DEBUG|grails.app.controller.MemberController|OUT /member/search
+25 Dec 2015 10:51:30,878|DEBUG|grails.app.controller.MemberController|OUT /member/search
+25 Dec 2015 10:51:31,622|DEBUG|grails.app.controller.MemberController|OUT /member/search
+25 Dec 2015 10:51:35,633|DEBUG|grails.app.controller.MemberController|IN /member/search ["query":"سی", "action":"search", "controller":"member"]
+25 Dec 2015 10:51:36,438|DEBUG|grails.app.controller.MemberController|OUT /member/search
+25 Dec 2015 10:51:36,794|DEBUG|grails.app.controller.MemberController|IN /member/search ["query":"ر", "action":"search", "controller":"member"]
+25 Dec 2015 10:51:38,137|DEBUG|grails.app.controller.MemberController|OUT /member/search
+25 Dec 2015 10:51:38,309|DEBUG|grails.app.controller.MemberController|IN /member/search ["query":"رژ", "action":"search", "controller":"member"]
+25 Dec 2015 10:51:38,372|DEBUG|grails.app.controller.MemberController|OUT /member/search
+25 Dec 2015 10:51:38,482|DEBUG|grails.app.controller.MemberController|IN /member/search ["query":"رژی", "action":"search", "controller":"member"]
+25 Dec 2015 10:51:38,570|DEBUG|grails.app.controller.MemberController|OUT /member/search
+25 Dec 2015 10:51:41,229|DEBUG|grails.app.controller.MemberController|IN /member/renderMember ["id":"130", "action":"renderMember", "controller":"member"]
+25 Dec 2015 10:51:41,485|DEBUG|grails.app.controller.MemberController|OUT /member/renderMember

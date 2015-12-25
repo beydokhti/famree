@@ -1,0 +1,5 @@
+12 Aug 2014 04:03:25,018|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+12 Aug 2014 04:03:28,319|DEBUG|grails.app.controller.HomeController|OUT /home/index
+12 Aug 2014 04:03:29,771|DEBUG|grails.app.service.TemplateService|Initializing template cache
+12 Aug 2014 04:03:33,286|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+12 Aug 2014 04:03:33,450|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax

@@ -1,0 +1,104 @@
+09 Oct 2015 16:12:10,021|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+09 Oct 2015 16:12:12,437|DEBUG|grails.app.controller.HomeController|OUT /home/index
+09 Oct 2015 16:12:13,969|DEBUG|grails.app.service.TemplateService|Initializing template cache
+09 Oct 2015 16:12:18,690|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+09 Oct 2015 16:12:18,916|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+09 Oct 2015 16:12:22,465|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+09 Oct 2015 16:12:22,625|DEBUG|grails.app.controller.HomeController|OUT /home/index
+09 Oct 2015 16:12:30,350|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+09 Oct 2015 16:12:30,362|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+09 Oct 2015 16:12:40,587|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+09 Oct 2015 16:12:40,746|DEBUG|grails.app.controller.HomeController|OUT /home/index
+09 Oct 2015 16:12:45,749|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+09 Oct 2015 16:12:46,666|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+09 Oct 2015 16:12:49,061|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+09 Oct 2015 16:12:49,234|DEBUG|grails.app.controller.MemberController|OUT /member/display
+09 Oct 2015 16:13:01,442|DEBUG|grails.app.controller.MemberController|IN /member/renderMember ["id":"1", "action":"renderMember", "controller":"member"]
+09 Oct 2015 16:13:02,804|DEBUG|grails.app.controller.MemberController|OUT /member/renderMember
+09 Oct 2015 16:13:05,032|DEBUG|grails.app.controller.MemberController|IN /member/create ["action":"create", "controller":"member"]
+09 Oct 2015 16:13:05,161|DEBUG|grails.app.controller.MemberController|OUT /member/create
+09 Oct 2015 16:13:18,383|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "active":"true", "gender":"FEMALE", "controller":"member"]
+09 Oct 2015 16:13:18,383|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "gender":"FEMALE", "controller":"member"]
+09 Oct 2015 16:13:18,585|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+09 Oct 2015 16:13:18,587|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+09 Oct 2015 16:21:29,318|DEBUG|grails.app.controller.MemberController|IN /member/create ["action":"create", "controller":"member"]
+09 Oct 2015 16:21:29,393|DEBUG|grails.app.controller.MemberController|OUT /member/create
+09 Oct 2015 16:21:31,734|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "gender":"MALE", "controller":"member"]
+09 Oct 2015 16:21:31,742|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "active":"true", "gender":"MALE", "controller":"member"]
+09 Oct 2015 16:21:31,823|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+09 Oct 2015 16:21:31,828|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+09 Oct 2015 16:21:50,880|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "gender":"MALE", "controller":"member"]
+09 Oct 2015 16:21:50,881|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "active":"true", "gender":"MALE", "controller":"member"]
+09 Oct 2015 16:21:50,920|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+09 Oct 2015 16:21:50,941|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+09 Oct 2015 16:49:37,132|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+09 Oct 2015 16:49:39,120|DEBUG|grails.app.controller.HomeController|OUT /home/index
+09 Oct 2015 16:49:40,517|DEBUG|grails.app.service.TemplateService|Initializing template cache
+09 Oct 2015 16:49:44,360|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+09 Oct 2015 16:49:44,586|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+09 Oct 2015 16:49:58,625|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+09 Oct 2015 16:49:58,811|DEBUG|grails.app.controller.HomeController|OUT /home/index
+09 Oct 2015 16:50:06,418|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+09 Oct 2015 16:50:07,358|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+09 Oct 2015 16:50:20,510|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+09 Oct 2015 16:50:20,661|DEBUG|grails.app.controller.HomeController|OUT /home/index
+09 Oct 2015 16:50:27,381|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+09 Oct 2015 16:50:27,414|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+09 Oct 2015 16:50:30,124|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+09 Oct 2015 16:50:30,229|DEBUG|grails.app.controller.MemberController|OUT /member/display
+09 Oct 2015 16:50:39,526|DEBUG|grails.app.controller.MemberController|IN /member/create ["action":"create", "controller":"member"]
+09 Oct 2015 16:50:39,629|DEBUG|grails.app.controller.MemberController|OUT /member/create
+09 Oct 2015 16:50:56,320|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "active":"true", "gender":"FEMALE", "controller":"member"]
+09 Oct 2015 16:50:56,320|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "gender":"FEMALE", "controller":"member"]
+09 Oct 2015 16:50:56,430|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+09 Oct 2015 16:50:56,432|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+09 Oct 2015 16:52:52,447|DEBUG|grails.app.controller.MemberController|IN /member/create ["action":"create", "controller":"member"]
+09 Oct 2015 16:52:52,489|DEBUG|grails.app.controller.MemberController|OUT /member/create
+09 Oct 2015 16:53:03,458|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "gender":"FEMALE", "controller":"member"]
+09 Oct 2015 16:53:03,458|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "active":"true", "gender":"FEMALE", "controller":"member"]
+09 Oct 2015 16:53:03,506|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+09 Oct 2015 16:53:03,524|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+09 Oct 2015 16:54:00,866|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+09 Oct 2015 16:54:02,967|DEBUG|grails.app.controller.HomeController|OUT /home/index
+09 Oct 2015 16:54:04,237|DEBUG|grails.app.service.TemplateService|Initializing template cache
+09 Oct 2015 16:54:07,538|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+09 Oct 2015 16:54:07,706|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+09 Oct 2015 16:54:55,053|DEBUG|grails.app.controller.MemberController|IN /member/create ["action":"create", "controller":"member"]
+09 Oct 2015 16:54:55,253|DEBUG|grails.app.controller.MemberController|OUT /member/create
+09 Oct 2015 16:55:09,806|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "gender":"FEMALE", "controller":"member"]
+09 Oct 2015 16:55:09,842|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "active":"true", "gender":"FEMALE", "controller":"member"]
+09 Oct 2015 16:58:13,590|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+09 Oct 2015 16:58:13,601|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+09 Oct 2015 17:03:23,729|DEBUG|grails.app.controller.MemberController|IN /member/create ["action":"create", "controller":"member"]
+09 Oct 2015 17:03:23,777|DEBUG|grails.app.controller.MemberController|OUT /member/create
+09 Oct 2015 17:03:50,455|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "gender":"FEMALE", "controller":"member"]
+09 Oct 2015 17:03:50,480|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "active":"true", "gender":"FEMALE", "controller":"member"]
+09 Oct 2015 17:03:59,917|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+09 Oct 2015 17:04:00,053|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+09 Oct 2015 17:04:36,112|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "active":"true", "gender":"MALE", "controller":"member"]
+09 Oct 2015 17:04:36,112|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "gender":"MALE", "controller":"member"]
+09 Oct 2015 17:04:36,157|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+09 Oct 2015 17:04:36,249|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+09 Oct 2015 17:28:04,060|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "gender":"FEMALE", "controller":"member"]
+09 Oct 2015 17:28:04,060|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "active":"true", "gender":"FEMALE", "controller":"member"]
+09 Oct 2015 17:28:04,175|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+09 Oct 2015 17:28:04,216|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+09 Oct 2015 17:52:26,263|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+09 Oct 2015 17:52:28,485|DEBUG|grails.app.controller.HomeController|OUT /home/index
+09 Oct 2015 17:52:29,854|DEBUG|grails.app.service.TemplateService|Initializing template cache
+09 Oct 2015 17:52:33,153|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+09 Oct 2015 17:52:33,376|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+09 Oct 2015 17:52:38,925|DEBUG|grails.app.controller.HomeController|IN /home/index ["action":"index", "controller":"home"]
+09 Oct 2015 17:52:39,135|DEBUG|grails.app.controller.HomeController|OUT /home/index
+09 Oct 2015 17:52:40,553|DEBUG|grails.app.controller.HomeController|IN /home/eventsAjax ["action":"eventsAjax", "controller":"home"]
+09 Oct 2015 17:52:40,567|DEBUG|grails.app.controller.HomeController|OUT /home/eventsAjax
+09 Oct 2015 17:52:42,631|DEBUG|grails.app.controller.MemberController|IN /member/display ["action":"display", "controller":"member"]
+09 Oct 2015 17:52:42,770|DEBUG|grails.app.controller.MemberController|OUT /member/display
+09 Oct 2015 17:52:46,966|DEBUG|grails.app.controller.MemberController|IN /member/create ["action":"create", "controller":"member"]
+09 Oct 2015 17:52:47,084|DEBUG|grails.app.controller.MemberController|OUT /member/create
+09 Oct 2015 17:53:17,165|DEBUG|grails.app.controller.MemberController|IN /member/create ["action":"create", "controller":"member"]
+09 Oct 2015 17:53:17,252|DEBUG|grails.app.controller.MemberController|OUT /member/create
+09 Oct 2015 17:55:17,799|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "active":"true", "gender":"FEMALE", "controller":"member"]
+09 Oct 2015 17:55:17,800|DEBUG|grails.app.controller.MemberController|IN /member/listEligibleSpousesAjax ["action":"listEligibleSpousesAjax", "gender":"FEMALE", "controller":"member"]
+09 Oct 2015 17:55:18,076|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
+09 Oct 2015 17:55:18,080|DEBUG|grails.app.controller.MemberController|OUT /member/listEligibleSpousesAjax
